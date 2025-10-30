@@ -49,4 +49,4 @@ Jedes Modul hat einen EEPROM mit einer Initialisierung, um dies zu erkennen
 
 ## Software
 - Regelungsentwurf in MatLab
-- Programmierung des STM in C
+- Programmierung des STM in C & C++
